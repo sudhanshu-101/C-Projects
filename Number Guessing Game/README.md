@@ -1,20 +1,30 @@
-# Number Guessing Game (C)
+# 🎯 Number Guessing Game (C)
 
-This is a simple number guessing game implemented in C. The game generates a random number between 1 and 10, and the user has to guess the number. The program provides feedback after each guess and keeps track of the number of attempts. The game ends when the correct number is guessed.
+This is a **simple number guessing game** implemented in **C**. The program randomly generates a number between **1 and 10** 🔢, and the user 🎮 has to guess it. After each guess, the game provides feedback and keeps track of how many attempts 🧠 you made. The game ends when the correct number is guessed ✅.
 
-## Features
+---
 
-- Random number generation using `rand()` function.
-- User input validation to ensure the guess is within the specified range.
-- Number of attempts is tracked and displayed after a correct guess.
-- Feedback on each guess (whether it's correct or incorrect).
-- Reveals the correct answer and the guessed number after each incorrect guess.
+## ✨ Features
 
-## How to Run
+- 🎲 Random number generation using the `rand()` function.
+- 🚧 Input validation to ensure the guess is within the range (1–10).
+- 🔢 Tracks the number of guesses and displays the count at the end.
+- 📣 Provides feedback for each guess:
+  - ✅ Correct guess
+  - ❌ Incorrect guess
+- 🧾 Reveals the correct number after the game ends.
 
-1. **Clone the Repository**:
-   Clone or download this repository to your local machine.
+---
 
-2. **Compile the Code**:
-   Use a C compiler (such as GCC) to compile the code. Open a terminal and navigate to the directory where the `.c` file is saved. Then run the following command:
-   
+## 🛠️ How to Run
+
+### 1️⃣ Clone the Repository
+
+Download or clone this repository to your local machine 🖥️.
+
+### 2️⃣ Compile the Code
+
+Use a C compiler such as **GCC** to compile the program. Open your terminal and navigate to the folder where the `.c` file is saved. Run the following command:
+
+```bash
+gcc number_guessing_game.c -o number_guessing_game
