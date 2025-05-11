@@ -20,5 +20,5 @@ This project showcases a **multi-task progress bar** implemented in **C**, where
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/progress-bar-c.git
+   git clone https://github.com/sudhanshu-101.github.io/progress-bar-c.git    
    cd progress-bar-c
