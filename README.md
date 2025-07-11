@@ -34,7 +34,7 @@ This repository contains a collection of C programming projects that demonstrate
 1. **Clone the Repository** or **Download the Files**:
    - Clone the repository using:
      ```bash
-     git clone https://github.com/sudhanshu-101/C-Projects.git   
+     git clone https://github.com/sudhanshuverse/C-Projects.git   
      ```
 
 2. **Compile the C Code**:
